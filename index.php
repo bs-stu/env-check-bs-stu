@@ -40,54 +40,5 @@
         <a href="#">聯絡我們</a>
     </nav>
 
-    <div class="container">
-        <main>
-            <section>
-                <h2>1. 文章與內容範例</h2>
-                
-                <article>
-                    <h3>如何使用 Laragon</h3>
-                    <p>這是一個 <article> 區塊，通常包含獨立的標題與內容。</p>
-                    <p>這段話裡面有一個 <span class="highlight"><span> 標籤</span>，它只會影響這行文字中的一部分，而不會換行。</p>
-                </article>
-
-                <div class="box">
-                    這是一個 <strong>&lt;div&gt;</strong>。它是區塊元素（Block-level），會佔據整行。在 CSS 佈局中，div 是最常被使用的彈性工具。
-                </div>
-            </section>
-
-            <section>
-                <h2>2. 數據呈現</h2>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>標籤名稱</th>
-                            <th>用途說明</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>&lt;header&gt;</td>
-                            <td>網頁或文章的開頭內容。</td>
-                        </tr>
-                        <tr>
-                            <td>&lt;footer&gt;</td>
-                            <td>版權資訊或底部連結。</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </section>
-        </main>
-
-        <aside>
-            <h3>側欄公告</h3>
-            <p>這是一個 &lt;aside&gt; 區塊，常用於側欄選單或額外資訊。</p>
-        </aside>
-    </div>
-
-    <footer>
-        <p>&copy; 2025 程式夥伴 版權所有</p>
-    </footer>
-
 </body>
 </html>
